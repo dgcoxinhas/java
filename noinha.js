@@ -1,1 +1,2 @@
-let nomeUsuario = noah, sophia, duda
+let nomeUsuario = noah, sophia, duda; 
+alert ('nomeUsuario')
