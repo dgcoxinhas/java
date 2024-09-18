@@ -1,0 +1,1 @@
+let nomeUsuario = noah, sophia, duda
